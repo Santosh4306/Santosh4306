@@ -6,7 +6,7 @@
 -  about me 
 -  i am from punganur i have completed my 10th  with 6.5 percent further i have completed my diploma in ece with 74 percent  
 -  and futher i have  completed my degree in bsc with 73 percent and now i am pursing post graduation program in Data analytics in imarticus in hyderabad
--  futher i am planed to settle in my life in a good position i am very happy to explore my ideas and good things
+-  futher i am planed to settle  my life in a good position i am very happy to explore my ideas and good things
 
 <!---
 Santosh4306/Santosh4306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
