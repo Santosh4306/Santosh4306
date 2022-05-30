@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Santosh Munjillpattu
 - 👀 I’m interested in Data science role or Data analytics role 
-- 🌱 I’m currently learning post graduation program in Data analytics in imarticus in hyderabad
-- 💞️ I’m looking to collaborate on  Data science to explore my
+- 🌱 I’m currently learning post graduation program in Data analytics in imarticus,Hyderabad
+- 💞️ I’m looking to collaborate on  Data science to explore my knowledge and my ideas.
 - 📫 How to reach me msantosh4306@gmail.com this is mail u reach me here 
 -  about me 
 -  i am from punganur i have completed my 10th  with 6.5 percent further i have completed my diploma in ece with 74 percent  
